@@ -1,5 +1,6 @@
 # Data Structure Practice
 >Practice repository.
+
 ###Contents:
 * Arrays
     >Contains the basic implementation of the array.
